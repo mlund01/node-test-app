@@ -1,0 +1,21 @@
+{
+  "name": "node_test_app",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Max Lund <mlund@four51.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "keen-js": "~3.3.0"
+  }
+}
